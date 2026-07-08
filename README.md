@@ -209,8 +209,19 @@ These repositories would strengthen the profile and show practical ability acros
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MSPYADAV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSPYADAV&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=cbd5e1&langs_count=10" alt="Most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSPYADAV&theme=github_dark" alt="GitHub profile summary" />
+
+<br />
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MSPYADAV&theme=github_dark" alt="GitHub stats summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MSPYADAV&theme=github_dark&utcOffset=5.5" alt="GitHub productive time" />
+
+<br />
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MSPYADAV&theme=github_dark" alt="Repository language summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MSPYADAV&theme=github_dark" alt="Most committed languages" />
 
 <br />
 <br />
@@ -222,10 +233,18 @@ These repositories would strengthen the profile and show practical ability acros
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MSPYADAV&bg_color=020617&color=cbd5e1&line=22d3ee&point=a78bfa&area=true&hide_border=true" alt="GitHub activity graph" />
 
-<br />
-<br />
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=MSPYADAV&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub profile trophies" />
+---
+
+## Achievement Board
+
+<div align="center">
+
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-Learning%20by%20Building-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Ethical%20Learning-111827?style=for-the-badge&logo=kalilinux&logoColor=38bdf8)
+![AI](https://img.shields.io/badge/AI%20%26%20ML-Project%20Focused-1e1b4b?style=for-the-badge&logo=openai&logoColor=a78bfa)
+![Cloud](https://img.shields.io/badge/Cloud%20%26%20DevOps-Practical%20Labs-082f49?style=for-the-badge&logo=amazonwebservices&logoColor=38bdf8)
 
 </div>
 
